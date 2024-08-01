@@ -25,6 +25,6 @@
  
 - Email: sumitnawadkar123@gmail.com
 - LinkedIn: www.linkedin.com/in/sumit-nawadkar-b33ba2247
-- GitHub: github.com/navadkarsujit
+- GitHub: https://github.com/sumitnawadkar
 
 Feel free to explore my projects and connect with me for collaboration or discussions. I'm enthusiastic about leveraging technology to solve real-world problems!
