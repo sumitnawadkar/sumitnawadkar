@@ -15,6 +15,8 @@
 
  🚀 Courses
 
+- Master in data science and analytics with AI from ITvedant
+
 - SQL Certificate from Itvedant
   
   SQL Certified Associate Certification demonstrating proficiency in basic SQL concepts.
@@ -25,7 +27,4 @@
 - LinkedIn: www.linkedin.com/in/sumit-nawadkar-b33ba2247
 - GitHub: github.com/navadkarsujit
 
-<!---
-sumitnawadkar/sumitnawadkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to explore my projects and connect with me for collaboration or discussions. I'm enthusiastic about leveraging technology to solve real-world problems!
