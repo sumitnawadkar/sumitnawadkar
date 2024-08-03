@@ -8,10 +8,15 @@
   
   🖥️ Technical Skills
 
-- Programming: Python, Java, SQL, HTML, CSS
-- Frameworks: Hibernate, Spring Boot, React.js
+- Programming: Python, SQL
+- Frameworks & Libraries:  NumPy, Pandas, Scikit-learn, Matplotlib, BeautifulSoup, Seaborn Streamlit
 - Tools: MySQL Workbench, Eclipse, VS Code, Power BI, Excel
-- Libraries: NumPy, Pandas, Matplotlib, BeautifulSoup
+- Data Science & Data Analytics : Data Cleaning & Preprocessing, Exploratory Data Analysis(EDA),
+
+  Dashboard Creation, Data Modeling, DAX, Custom Visuals, Data Visualization,
+
+  Machine Learning, Predictive Modeling, Feature Engineering.
+
 
  🚀 Courses
 
